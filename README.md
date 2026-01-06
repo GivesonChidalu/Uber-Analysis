@@ -172,7 +172,6 @@ This dashboard allows in-depth data exploration.
 
 ---
 
-
 ## ✅ Why This Project Matters
 This project demonstrates:
 - Business-focused analytics thinking  
