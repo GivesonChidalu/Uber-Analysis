@@ -74,7 +74,7 @@ This dashboard provides a high-level summary of Uber trip performance.
 
 ---
 
-### 🚗 Vehicle Type Analysis
+#### 🚗 Vehicle Type Analysis
 A detailed grid-style analysis to compare performance across vehicle categories.
 
 #### Metrics by Vehicle Type
@@ -89,7 +89,7 @@ A detailed grid-style analysis to compare performance across vehicle categories.
 
 ---
 
-### 📅 Total Bookings by Day
+#### 📅 Total Bookings by Day
 This analysis focuses on daily booking behavior.
 
 #### Business Use Cases
@@ -100,7 +100,7 @@ This analysis focuses on daily booking behavior.
 
 ---
 
-### 📍 Location Analysis
+#### 📍 Location Analysis
 Location-based insights help optimize ride distribution and demand forecasting.
 
 #### Key Analyses
@@ -110,9 +110,14 @@ Location-based insights help optimize ride distribution and demand forecasting.
 - **Farthest Trip Analysis**  
 - **Top 5 Booking Locations**  
 - **Most Preferred Vehicle by Pickup Location**  
+---
+### KEY INSIGHTS FOR DASHBOARD 1
+- Total bookings by day revealed that weekends had low bookings compared to other weekdays, this is expected since human movenment is low during weekends
+- The vehicle type analysis revealed that UberX had the highest total bookings and total booking value
+- For the location analysis, the top pickup location was penn station/madison sq west
+
 
 ---
-
 ### ⏱️ Dashboard 2: Time Analysis
 This dashboard explores **time-based trip patterns** to improve operational efficiency.
 
@@ -122,7 +127,7 @@ A single measure selector dynamically updates **all visuals**:
 - Total Booking Value  
 - Total Trip Distance  
 
-#### Visualizations
+#### Visualizationsbook
 - **Pickup Time (10-Minute Intervals)** – Area chart  
 - **Bookings by Day Name** – Line chart  
 - **Hour vs Day Heatmap**
